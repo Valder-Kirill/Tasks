@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <BrowserData name="BrowserData">
+    <Url>https://vk.com/</Url>
+    <UrlVkApiMethod>https://api.vk.com/method/</UrlVkApiMethod>
+    <UrlWallPost>wall.post?</UrlWallPost>
+    <UrlWallEdit>wall.edit?</UrlWallEdit>
+    <UrlWallCreateComment>wall.createComment?</UrlWallCreateComment>
+    <UrlWallDelete>wall.delete?</UrlWallDelete>
+    <UrlPhotosGetUploadServer>photos.getUploadServer?</UrlPhotosGetUploadServer>
+    <UrlPhotosSave>photos.save?</UrlPhotosSave>
+    <UrlGetLikes>likes.getList?</UrlGetLikes>
+    <UrlGetPhotos>photos.get?</UrlGetPhotos>
+  </BrowserData>
+  
+  <UserData name="UserData">
+    <Login>Это моё дело)</Login>
+    <Pass>Это тоже мое дело)</Pass>
+    <Token>Ну, сюда вот токен надо</Token>
+    <ID>Айдишка чего-то. Страницы? Картинки?</ID>
+    <AlbumId>Айдишка альбома</AlbumId>
+  </UserData>
+
+  <PostData name="PostData">
+    <Fault>0,01</Fault>
+    <PhotoName>test.jpg</PhotoName>
+    <TypeElement>Post</TypeElement>
+    <PicNum>0</PicNum>
+    <FileName>PhotoToLoad</FileName>
+    <Pic>C:\Users\emely\OneDrive\Рабочий стол\Falstaff.jpg</Pic>
+    <V>5.131</V>
+</PostData>
+</data>

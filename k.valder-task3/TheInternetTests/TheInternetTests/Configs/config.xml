@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <testSettings name ="settings">
+    <url>http://the-internet.herokuapp.com</url>
+    <browserName>Firefox</browserName>
+    <defaultTimeOut>60</defaultTimeOut>
+  </testSettings>
+</configuration>

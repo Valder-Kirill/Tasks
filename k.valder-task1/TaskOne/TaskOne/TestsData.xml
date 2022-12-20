@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <homePageData name ="homePageData">
+    <url>https://userinyerface.com/game.html%20target=</url>
+  </homePageData>
+  
+  <cardNumbersData name ="cardNumbersData">
+    <one>1</one>
+    <two>2</two>
+    <three>3</three>
+  </cardNumbersData>
+
+  <timerData name ="timerData">
+    <value>00:00:00</value>
+  </timerData>
+
+  <interests name="interests">
+    <interestsCount>3</interestsCount>
+    <maxInterests>19</maxInterests>
+  </interests>
+</data>

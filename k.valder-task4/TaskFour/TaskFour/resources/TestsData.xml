@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <generalData name="generalData">
+    <url>https://jsonplaceholder.typicode.com/</url>
+  </generalData>
+
+  <requests name="requests">
+    <posts>posts</posts>
+    <post99>posts/99</post99>
+    <post150>posts/150</post150>
+    <users>users</users>
+    <user5>users/5</user5>
+  </requests>
+
+  <postsData name="postsData">
+    <postType>application/json; charset=utf-8</postType>
+    <post99UserID>10</post99UserID>
+    <post99ID>99</post99ID>
+    <post150Body nillable="true"></post150Body>
+    <postsRet101>101</postsRet101>
+  </postsData>
+
+  <user4Data name="user4Data">
+    <name>Chelsey Dietrich</name>
+    <username>Kamren</username>
+    <email>Lucio_Hettinger@annie.ca</email>
+    <street>Skiles Walks</street>
+    <suite>Suite 351</suite>
+    <city>Roscoeview</city>
+    <zipcode>33263</zipcode>
+    <geoLat>-31.8129</geoLat>
+    <geoLng>62.5342</geoLng>
+    <phone>(254)954-1289</phone>
+    <website>demarco.info</website>
+    <companyName>Keebler LLC</companyName>
+    <companyCatchPhrase>User-centric fault-tolerant solution</companyCatchPhrase>
+    <companyBs>revolutionize end-to-end systems</companyBs>
+  </user4Data>
+
+  <sendPostData name="sendPostData">
+    <userId>1</userId>
+  </sendPostData>
+  
+  <DBData name="DBData">
+    <Server>localhost</Server>
+    <User>root</User>
+    <TestTable>union_reporting</TestTable>
+    <Password>pass</Password>
+  </DBData>
+
+  <StatusValue name="StatusValue">
+    <Passed>1</Passed>
+    <Failed>2</Failed>
+    <Skipped>3</Skipped>
+  </StatusValue>
+  
+  <AuthorData name="AuthorData">
+    <NameAuthor>Valder</NameAuthor>
+    <Login>Mockin</Login>
+    <Email>vvvvvvv@bk.ru</Email>
+  </AuthorData>
+  
+  <ProjectInfo name="ProjectInfo">
+    <Name>API-Test Project</Name>
+    <BuildNumber>9</BuildNumber>
+  </ProjectInfo>
+
+  <ComparisonOfNumbers name="ComparisonOfNumbers">
+    <count>10</count>
+  </ComparisonOfNumbers>
+</data>

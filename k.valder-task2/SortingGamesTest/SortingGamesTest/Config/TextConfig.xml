@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings name ="settings">
+    <language>--lang=ru</language>
+    <url>https://store.steampowered.com/</url>
+    <gameName>Fallout</gameName>
+  </appSettings>
+</configuration>

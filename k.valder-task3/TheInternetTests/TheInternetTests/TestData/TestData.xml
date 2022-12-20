@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <projectData name ="projectData">
+    <url>http://the-internet.herokuapp.com</url>
+  </projectData>
+  <basicAuthData name ="basicAuthData">
+    <urlForLogin>http://admin:admin@the-internet.herokuapp.com/basic_auth</urlForLogin>
+    <paragraphText>Congratulations! You must have the proper credentials.</paragraphText>
+  </basicAuthData>
+  
+  <alertsData name ="alertsData">
+    <urlForAlerts>/javascript_alerts</urlForAlerts>
+  </alertsData>
+  
+  <sliderData name ="sliderData">
+    <urlForizontalSlider>/horizontal_slider</urlForizontalSlider>
+    <sliderMinValue>0</sliderMinValue>
+    <sliderMaxValue>5</sliderMaxValue>
+  </sliderData>
+  
+  <hoversData name ="hoversData">
+    <urlHoversData>/hovers</urlHoversData>
+    <textOnHoverPage>Hover over the image for additional information</textOnHoverPage>
+    <userOneName>name: user1</userOneName>
+    <userOneLink>http://the-internet.herokuapp.com/users/1</userOneLink>
+    <userThreeName>name: user3</userThreeName>
+    <userThreeLink>http://the-internet.herokuapp.com/users/3</userThreeLink>
+  </hoversData>
+
+  <iFameData name ="iFameData">
+    <urlIFame>/iframe</urlIFame>
+    <textAlignLeftStyle>text-align: left;</textAlignLeftStyle>
+    <attribute>style</attribute>
+    <styleResult>font-size: 8pt;</styleResult>
+  </iFameData>
+</data>
